@@ -6,5 +6,6 @@
 - Proteção com Spring Security
 - Gerando token com JWT
 - Autenticação via JWT
-- Monitoramento com Spring Boot Actuator e Spring Boot Admin (Aplicação de monitoramento está separada na pasta "spring-boot-admin")
+- Monitoramento com Spring Boot Actuator e Spring Boot Admin 
+	(Aplicação de monitoramento está separada na pasta "spring-boot-admin", configurada para rodar na porta 8081)
 - Documentação da API com Swagger
